@@ -20,7 +20,7 @@ A ordem de utilização é:
 
 ## Problemas e soluções de negócio
 
-Com os dados em mãos torna-se possível uma maior centralização para possíveis análises, tendências e acompanhamento de preços, tornando possível uma tomada de decisão orientada a dados no qual, pode possibilitar aos mais variados segmentos ações como: compra e venda de veículos ou mesmo, não realizar nenhuma operação em determinado momento, conforme realidade de cada pessoa/instituição. 
+Com os dados em mãos, torna-se possível uma maior centralização para realização de análises buscando avaliar tendências e acompanhar os preços. Além de, uma tomada de decisão orientada a dados no qual, pode gerar insights aos mais variados segmentos, ações como: compra e venda de veículos ou mesmo, não realizar nenhuma operação em determinado momento, conforme realidade de cada pessoa/instituição. 
 
 ## Agradecimentos
 
